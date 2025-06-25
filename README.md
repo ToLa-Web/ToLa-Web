@@ -56,11 +56,18 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToLa-Web&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToLa-Web&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToLa-Web&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800&exclude_repo=github-readme-stats"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToLa-Web&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ToLa-Web&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
