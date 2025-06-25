@@ -37,7 +37,7 @@
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
 ### Tools & Technologies
@@ -120,9 +120,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 **💬 Ask me about:** React, Laravel, Full-stack development, or anything tech-related!
 
 **📫 How to reach me:**
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Connect with me](Coming soon...)
 - Email: your-email@example.com
-- Portfolio: [Visit my website](https://your-portfolio.com)
+- Portfolio: [Visit my website](Coming soon...)
 
 </div>
 
