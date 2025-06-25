@@ -37,7 +37,7 @@
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,cs,dotnet" />
 </p>
 
 ### Tools & Technologies
@@ -47,7 +47,7 @@
 
 ### Languages I've Explored
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,cs" />
 </p>
 
 ---
