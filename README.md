@@ -121,7 +121,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 **📫 How to reach me:**
 - LinkedIn: [Connect with me](Coming soon...)
-- Email: your-email@example.com
+- Email: chhengtola4@gmail.com
 - Portfolio: [Visit my website](Coming soon...)
 
 </div>
